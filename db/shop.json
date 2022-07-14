@@ -1,0 +1,154 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop",
+      "price": 5000,
+      "categoryId": 1,
+      "description": "Asus Zenbook",
+      "imageUrl": "https://dlcdnwebimgs.asus.com/gain/11002adc-497d-4be4-8c43-12bb996606be/"
+    },
+    {
+      "id": 2,
+      "name": "Buzdolabı",
+      "price": 2500,
+      "categoryId": 1,
+      "description": "Arçelik Buzdolabı",
+      "imageUrl": "https://haber50com.teimg.com/haber50-com/uploads/2022/06/arcelik-284630-ei-a-kombi-no-frost-buzdolabi-71472.jpg"
+    },
+    {
+      "name": "Akıllı Saat",
+      "description": "Air Watch 6",
+      "imageUrl": "https://cdn03.ciceksepeti.com/cicek/kc8955014-1/XL/air-watch-6-akilli-saat-smart-watch--ithalatci-garantili--kc8955014-1-ce2352f6a884437db24b4ff5f378883a.jpg",
+      "price": "500",
+      "categoryId": "1",
+      "id": 3
+    },
+    {
+      "name": "Parfüm",
+      "description": "Bargello Kadın Parfüm",
+      "imageUrl": "https://cdn03.ciceksepeti.com/cicek/kcx007752661516-1/XL/bargello-151-floral-50-ml-edp--kadin-parfum-8691841301252-b8259e8d57a84e89b5a49b718165e388.jpg",
+      "price": "100",
+      "categoryId": "2",
+      "id": 4
+    },
+    {
+      "name": "Deodorant",
+      "description": "Emotion Kadın Deodorant",
+      "imageUrl": "https://img-watsons.mncdn.com/Content/Images/Thumbs/0281336_ocean-fresh-kadin-deodorant-150-ml.jpeg",
+      "price": "30",
+      "categoryId": "2",
+      "id": 5
+    },
+    {
+      "name": "Avize",
+      "description": "Natali 3'lü Avize",
+      "imageUrl": "https://www.avizecarsisi.com.tr/upload/urunler/40091/127978/7132_Natali_BS_7132_52_03.jpg",
+      "price": "240",
+      "categoryId": "3",
+      "id": 6
+    },
+    {
+      "name": "Bahçe Salıncak",
+      "description": "Damla Rattan Bahçe Salıncak",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/500/-/ty405/product/media/images/20220421/12/95875487/234694179/1/1_org.jpg",
+      "price": "2000",
+      "categoryId": "3",
+      "id": 7
+    },
+    {
+      "name": "Sehpa",
+      "description": "Dörtlü Orta Sehpa",
+      "imageUrl": "https://cdn.dsmcdn.com/mnresize/500/-/ty3/product/media/images/20200511/12/962130/70683765/1/1_org.jpg",
+      "price": "1500",
+      "categoryId": "3",
+      "id": 8
+    },
+    {
+      "name": "Şampuan",
+      "description": "Gliss Şampuan",
+      "imageUrl": "https://productimages.hepsiburada.net/s/198/500/110000168764960.jpg",
+      "price": "35",
+      "categoryId": "2",
+      "id": 9
+    },
+    {
+      "name": "Ayakkabı",
+      "description": "Decathlon Spor Ayakkabı",
+      "imageUrl": "https://contents.mediadecathlon.com/p1811279/k$33e4e4e5c7e09a2480bba2bd2cd11a48/sq/spor-ayakkabilar.jpg?format=auto&f=800x0",
+      "price": "350",
+      "categoryId": "4",
+      "id": 10
+    },
+    {
+      "name": "Cüzdan",
+      "description": "Kadın Cüzdan ",
+      "imageUrl": "https://productimages.hepsiburada.net/s/150/600-800/110000105583944.jpg",
+      "price": "120",
+      "categoryId": "4",
+      "id": 11
+    },
+    {
+      "name": "Ayakkabı",
+      "description": "Erkek Koşu Ayakkabısı",
+      "imageUrl": "https://img-lescon.mncdn.com/UPLOAD/URUNLER/thumb/21NAE00MRTRM_276_1_small.jpg",
+      "price": "500",
+      "categoryId": "4",
+      "id": 12
+    },
+    {
+      "name": "Güneş Gözlüğü",
+      "description": "Siyah Cam Güneş Gözlüğü",
+      "imageUrl": "https://g9ubzbybdtjp.merlincdn.net/i/l/003/0036698_koseli-siyah-cam-sari-kivrimli-bayan-gunes-gozlugu.jpeg",
+      "price": "80",
+      "categoryId": "5",
+      "id": 13
+    },
+    {
+      "name": "Kolye",
+      "description": "Gezegen Kolye",
+      "imageUrl": "https://cdn03.ciceksepeti.com/cicek/kcx009441480455-1/XL/kadin-gezegen-model-rose-kaplama-925-ayar-gumus-kolye-kcx009441480455-1-53037e30b5a94f48895120fba1e6260a.jpg",
+      "price": "150",
+      "categoryId": "5",
+      "id": 14
+    },
+    {
+      "name": "Şapka",
+      "description": "Denizci Tipi Şapka",
+      "imageUrl": "https://productimages.hepsiburada.net/s/134/600-800/110000085112452.jpg",
+      "price": "110",
+      "categoryId": "5",
+      "id": 15
+    },
+    {
+      "name": "Saat",
+      "description": "Casio Erkek Kol Saati",
+      "imageUrl": "https://ayb.akinoncdn.com/products/2020/02/10/32572/97866289-bfdf-47d2-97f3-bbb3ba4190a1_size780x780_quality60_cropCenter.jpg",
+      "price": "100",
+      "categoryId": "5",
+      "id": 16
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Elektronik"
+    },
+    {
+      "id": 2,
+      "name": "Kozmetik"
+    },
+    {
+      "id": 3,
+      "name": "Ev&Mobilya"
+    },
+    {
+      "id": 4,
+      "name": "Ayakkabı&Çanta"
+    },
+    {
+      "id": 5,
+      "name": "Saat&Aksesuar"
+    }
+  ]
+}
